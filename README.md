@@ -21,5 +21,6 @@ for an analog thumb-stick, UART serial connections, and interfacing with various
 
 
 ## Hardare Setup & Terminal Output
-![top](./utils/images/side.jpg)
+![hardware](./utils/images/embeddedHardware.jpg)
+![terminal](./utils/images/terminalOutput.jpg)
 
