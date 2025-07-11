@@ -15,7 +15,9 @@ for an analog thumb-stick, UART serial connections, and interfacing with various
 
   
 **Hardware:**
-- 
+- TI MSP430-4618 Microcontroller
+- Thumbstick
+- MobaXTerm USB Terminal Screen
 
 
 
