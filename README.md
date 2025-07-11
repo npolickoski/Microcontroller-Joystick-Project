@@ -13,6 +13,8 @@ for an analog thumb-stick, UART serial connections, and interfacing with various
 - Interrupts
 - Bitwise Byte Operations
 - Voltage Input Mapping
+- Timers
+- Analog-to-Digital Signal Conversion
   
 **Functionality:**
 - 
