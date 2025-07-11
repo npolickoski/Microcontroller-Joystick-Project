@@ -10,6 +10,9 @@ for an analog thumb-stick, UART serial connections, and interfacing with various
 **Concepts Used:** 
 - UART Serial Communication
 - Input Debouncing
+- Interrupts
+- Bitwise Byte Operations
+- Voltage Input Mapping
   
 **Functionality:**
 - 
