@@ -35,6 +35,6 @@
 ## Hardare Setup & Terminal Output
 ![hardware](./utils/images/embeddedHardware.jpg)
 ![terminal](./utils/images/terminalOutput.jpg)
-![arrows](./utils/images/terminalOutput.jpg)
-![playAgain](./utils/images/terminalOutput.jpg)
+![arrows](./utils/images/cpe325final_arrow1.jpg)
+![playAgain](./utils/images/cpe325final_replay.jpg)
 
