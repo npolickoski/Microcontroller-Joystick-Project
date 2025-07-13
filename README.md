@@ -37,5 +37,6 @@
 ![terminal](./utils/images/terminalOutput.jpg)
 
 ![arrows](./utils/images/cpe325Final_arrow1.png)
+
 ![playAgain](./utils/images/cpe325Final_replay.png)
 
