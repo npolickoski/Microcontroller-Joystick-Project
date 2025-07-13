@@ -17,7 +17,13 @@ for an analog thumb-stick, UART serial connections, and interfacing with various
   
 **Functionality:**
 - Uses Analog thumbstick to:
-  - 1) s
+  - Select 1-of-4 songs in terminal menu
+  - move thumbsitck in reaction to song arrow movements according to chosen song:
+    - If player makes it to end of song with 3 or less mistakes --> win scenario
+    - If player makes 3 or more mistakes --> lose scenario
+  - Play again terminal screen
+- Buzzer emits different Hz soundwave depending on song arrow
+- Green, Yellow, and Red LEDs emit respectively on the number of mistakes made
 
   
 **Hardware:**
