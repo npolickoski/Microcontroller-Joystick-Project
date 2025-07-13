@@ -1,7 +1,4 @@
 # Microcontroller Joystick Project 
-- Programmed in embedded C, interfaced with on-board timers, system interrupts, analog-to-digital converter 
-for an analog thumb-stick, UART serial connections, and interfacing with various LEDs & buzzer 
-
 
 **Goal:** 
 - develop timed-rhythm game for Embedded Systems Lab final project
